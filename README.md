@@ -66,8 +66,8 @@ _please note that this presentation is still in progress_
 
 <div align="center">
 
-[![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=Nabophial_API)](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=Nabophial_API)
-[![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=O-Killer-Api)](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=O-Killer-Api)
+[![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=Nabophial_API)](https://github.com/AlanLima91/Nabophial_API)
+[![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=O-Killer-Api)](https://github.com/AlanLima91/O-Killer-API)
 
 </div>
 
