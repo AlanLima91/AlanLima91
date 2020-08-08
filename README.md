@@ -22,7 +22,7 @@
 
 </div>
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img margin="auto" alt="AlanLima91's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLima91" />
 </a>
 
