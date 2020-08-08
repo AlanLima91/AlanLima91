@@ -12,10 +12,6 @@
 
 ## Languages :
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-    <img margin="auto" alt="AlanLima91's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLima91" />
-</a>
-
 <div align="center">
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50px">](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +22,10 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50px">](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+    <img margin="auto" alt="AlanLima91's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLima91" />
+</a>
 
 <div align="center" display="flex" margin-right="10px">
 
