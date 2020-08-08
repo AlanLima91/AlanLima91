@@ -54,11 +54,15 @@
 
 ## My Github Activity :
 
+<div align="center">
+
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=AlanLima91&show_icons=true&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ## Projects :
+
 [![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=Nabophial_API)](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=Nabophial_API)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50px">](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)
 
 [![Nabophial](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=O-Killer-Api)](https://github-readme-stats.vercel.app/api/pin/?username=AlanLima91&repo=O-Killer-Api)
 
