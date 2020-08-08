@@ -1,5 +1,7 @@
 ## Hi there, I'm Alan 👋
 
+_please note that this presentation is still in progress_
+
 ## I'm a Developer !
 - 🔭 I’m currently working at Tornika for [CliqDigital]
 - 🌱 I’m currently learning everything 
