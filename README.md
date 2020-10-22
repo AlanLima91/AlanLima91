@@ -3,7 +3,8 @@
 _please note that this presentation is still in progress_
 
 ## I'm a Fullstack Developer !
-- 🔭 I’m currently working at Tornika for [CliqDigital]
+- I've started as a Backend developper in Tornika for [CliqDigital]
+- 🔭 I’m currently working at [Jellyfish] in the Innovation team.
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Learning all the best practices for PHP and JS, Also improving my knowledge of design pattern
 - ⚡ Fun fact: I love Concert, TvShows and [4X Games]
@@ -76,6 +77,7 @@ _please note that this presentation is still in progress_
 </div>
 
 [CliqDigital]: https://cliqdigital.com
+[Jellyfish]: https://www.jellyfish.com/fr-fr
 [4X Games]: https://en.wikipedia.org/wiki/4X
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [VisualStudioCode]: https://code.visualstudio.com
